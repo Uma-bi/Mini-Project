@@ -1,1 +1,1 @@
-# Mini-Project
+# Amazon sales data analysis
